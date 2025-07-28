@@ -1,4 +1,4 @@
-# git-tag
+# @tic-nova/git-tag
 
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
@@ -7,7 +7,7 @@
 ## Install
 
 ```
-npm install git-tag
+npm install @tic-nova/git-tag
 ```
 ## Usage
 

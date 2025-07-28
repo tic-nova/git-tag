@@ -1,6 +1,6 @@
 {
-  "name": "git-tag",
-  "version": "0.2.0",
+  "name": "@tic-nova/git-tag",
+  "version": "1.0.0",
   "description": "simply command 'git tag' wrapper",
   "main": "index.js",
   "scripts": {
@@ -10,17 +10,18 @@
     "git",
     "tag"
   ],
-  "repository": "cutsin/git-tag",
-  "author": "Cutsin <cutsin@gmail.com>",
+  "repository": "tic-nova/git-tag",
+  "author": "TIC-NOVA <contact@tic-nova.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cutsin/git-tag/issues"
+    "url": "https://github.com/tic-nova/git-tag/issues"
   },
-  "homepage": "https://github.com/cutsin/git-tag",
+  "homepage": "https://github.com/tic-nova/git-tag",
   "devDependencies": {
-    "async": "^0.9.0"
+    "async": "^3.2.6"
   },
   "dependencies": {
-    "semver": "~5.3.0"
-  }
+    "semver": "^7.7.2"
+  },
+  "private": false
 }
